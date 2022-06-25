@@ -3576,7 +3576,7 @@ MonoBehaviour:
   P2: {fileID: 904054288}
   P3: {fileID: 1905683939}
   P4: {fileID: 1134514176}
-  maxScore: 5
+  maxScore: 15
   ball: {fileID: 634053924}
   goalManager: {fileID: 759756044}
 --- !u!4 &2118379732
